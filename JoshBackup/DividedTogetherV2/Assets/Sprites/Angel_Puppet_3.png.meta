@@ -1,0 +1,438 @@
+fileFormatVersion: 2
+guid: 2a00c07bc12d644e0a3892f96728af87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2132282619522449688
+    second: Angel_Puppet_3_0
+  - first:
+      213: -8459656816866162092
+    second: Angel_Puppet_3_1
+  - first:
+      213: 7494141948073328038
+    second: Angel_Puppet_3_2
+  - first:
+      213: 8969877175859276061
+    second: Angel_Puppet_3_3
+  - first:
+      213: 5439462240568746576
+    second: Angel_Puppet_3_4
+  - first:
+      213: 7994613708595973647
+    second: Angel_Puppet_3_5
+  - first:
+      213: 8027738844636115584
+    second: Angel_Puppet_3_6
+  - first:
+      213: -4313388082559391287
+    second: Angel_Puppet_3_7
+  - first:
+      213: 6964136753271594574
+    second: Angel_Puppet_3_8
+  - first:
+      213: -1076561318705864694
+    second: Angel_Puppet_3_9
+  - first:
+      213: 6606227077057487839
+    second: Angel_Puppet_3_10
+  - first:
+      213: 7100152380493449206
+    second: Angel_Puppet_3_11
+  - first:
+      213: 7522799202680435627
+    second: Angel_Puppet_3_12
+  - first:
+      213: -4074566880123826849
+    second: Angel_Puppet_3_13
+  - first:
+      213: 650067260796593443
+    second: Angel_Puppet_3_14
+  - first:
+      213: -5707704822619851372
+    second: Angel_Puppet_3_15
+  - first:
+      213: -1943112053199274305
+    second: Angel_Puppet_3_16
+  - first:
+      213: -7198624647050207827
+    second: Angel_Puppet_3_17
+  - first:
+      213: 427639875882927996
+    second: Angel_Puppet_3_18
+  - first:
+      213: -916090448025651439
+    second: Angel_Puppet_3_19
+  - first:
+      213: 8935383758953055035
+    second: Angel_Puppet_3_20
+  - first:
+      213: 1251163402538705907
+    second: Angel_Puppet_3_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Angel_Puppet_3_0
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 845
+        width: 414
+        height: 355
+      alignment: 9
+      pivot: {x: 0.9163593, y: 0.09860633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eeff9e314c9862e0800000000000000
+      internalID: -2132282619522449688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Puppet_3_6
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 867
+        width: 145
+        height: 284
+      alignment: 9
+      pivot: {x: 0.24639514, y: 0.89653856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082f32842f1486f60800000000000000
+      internalID: 8027738844636115584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Puppet_3_7
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 830
+        width: 420
+        height: 303
+      alignment: 9
+      pivot: {x: 0.6532205, y: 0.15866844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9e4a86464c324c0800000000000000
+      internalID: -4313388082559391287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Puppet_3_8
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 863
+        width: 137
+        height: 277
+      alignment: 9
+      pivot: {x: 0.2315852, y: 0.9231539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4edef1ca7595a060800000000000000
+      internalID: 6964136753271594574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Puppet_3_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 392
+        width: 414
+        height: 364
+      alignment: 9
+      pivot: {x: 0.91635936, y: 0.08958879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7c47ac8fec88260800000000000000
+      internalID: 7100152380493449206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Puppet_3_12
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 486
+        width: 109
+        height: 229
+      alignment: 9
+      pivot: {x: 0.7530254, y: 0.9014512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3fb50740a566860800000000000000
+      internalID: 7522799202680435627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Puppet_3_13
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 481
+        width: 118
+        height: 201
+      alignment: 9
+      pivot: {x: 0.24679773, y: 0.90020233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dc5a0b20b3477c0800000000000000
+      internalID: -4074566880123826849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Puppet_3_14
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 501
+        width: 183
+        height: 328
+      alignment: 9
+      pivot: {x: 0.43471372, y: 0.93710065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32564efbab0850900800000000000000
+      internalID: 650067260796593443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Puppet_3_15
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 529
+        width: 157
+        height: 301
+      alignment: 9
+      pivot: {x: 0.49999923, y: 0.9286783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495b5fc54b82ac0b0800000000000000
+      internalID: -5707704822619851372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Puppet_3_16
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 197
+        width: 136
+        height: 232
+      alignment: 9
+      pivot: {x: 0.7872884, y: 0.8863532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbef646f1eda805e0800000000000000
+      internalID: -1943112053199274305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Puppet_3_17
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 156
+        width: 93
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad53310609591c90800000000000000
+      internalID: -7198624647050207827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Puppet_3_18
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 87
+        width: 274
+        height: 395
+      alignment: 9
+      pivot: {x: 0.604649, y: 0.10679337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c774bcd83384fe500800000000000000
+      internalID: 427639875882927996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

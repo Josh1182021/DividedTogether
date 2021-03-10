@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: c559b4e37b0d04c419446695f53862a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3366165834213645536
+    second: Baaphomet_Puppet2_0
+  - first:
+      213: 1677366047463543235
+    second: Baaphomet_Puppet2_1
+  - first:
+      213: 8722505223165436465
+    second: Baaphomet_Puppet2_2
+  - first:
+      213: 7644287419887606772
+    second: Baaphomet_Puppet2_4
+  - first:
+      213: 7361119691001547195
+    second: Baaphomet_Puppet2_5
+  - first:
+      213: -3173642822276478976
+    second: Baaphomet_Puppet2_6
+  - first:
+      213: 8465268357674783924
+    second: Baaphomet_Puppet2_7
+  - first:
+      213: 7794844056877750932
+    second: Baaphomet_Puppet2_8
+  - first:
+      213: -977528952537166105
+    second: Baaphomet_Puppet2_9
+  - first:
+      213: -1581947097817793499
+    second: Baaphomet_Puppet2_10
+  - first:
+      213: 9200514772253096136
+    second: Baaphomet_Puppet2_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Baaphomet_Puppet2_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 351
+        width: 368
+        height: 522
+      alignment: 9
+      pivot: {x: 0.84413785, y: 0.07886444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023a3ac220af841d0800000000000000
+      internalID: -3366165834213645536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baaphomet_Puppet2_1
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 835
+        width: 148
+        height: 278
+      alignment: 9
+      pivot: {x: 0.41927359, y: 0.84381014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c19d597883374710800000000000000
+      internalID: 1677366047463543235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baaphomet_Puppet2_2
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 832
+        width: 132
+        height: 288
+      alignment: 9
+      pivot: {x: 0.46379507, y: 0.8567632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132e34269409c0970800000000000000
+      internalID: 8722505223165436465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baaphomet_Puppet2_4
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 827
+        width: 455
+        height: 328
+      alignment: 9
+      pivot: {x: 0.56827086, y: 0.1066087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb536f38e6f51a60800000000000000
+      internalID: 7644287419887606772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baaphomet_Puppet2_5
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 501
+        width: 157
+        height: 273
+      alignment: 9
+      pivot: {x: 0.43912113, y: 0.8150968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9c74bab53f72660800000000000000
+      internalID: 7361119691001547195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baaphomet_Puppet2_6
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 489
+        width: 172
+        height: 276
+      alignment: 9
+      pivot: {x: 0.33329135, y: 0.8376445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0080e36faa4f4f3d0800000000000000
+      internalID: -3173642822276478976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baaphomet_Puppet2_7
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 315
+        width: 446
+        height: 474
+      alignment: 9
+      pivot: {x: 0.5482181, y: 0.25298545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b45f8b68bcaa7570800000000000000
+      internalID: 8465268357674783924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baaphomet_Puppet2_8
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 235
+        width: 150
+        height: 210
+      alignment: 9
+      pivot: {x: 0.8504578, y: 0.7048129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a53c1fe59dc2c60800000000000000
+      internalID: 7794844056877750932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baaphomet_Puppet2_9
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 219
+        width: 137
+        height: 240
+      alignment: 9
+      pivot: {x: 0.22093569, y: 0.84846634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eecc5ac89e1f62f0800000000000000
+      internalID: -977528952537166105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baaphomet_Puppet2_10
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 9
+        width: 268
+        height: 243
+      alignment: 9
+      pivot: {x: 0.7942277, y: 0.8638311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c3c1dfe7bcb0ae0800000000000000
+      internalID: -1581947097817793499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baaphomet_Puppet2_11
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 12
+        width: 150
+        height: 246
+      alignment: 9
+      pivot: {x: 0.22919108, y: 0.8691074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c831ee507bceaf70800000000000000
+      internalID: 9200514772253096136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

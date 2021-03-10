@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: 60b74420188f44c928e18235d5877ec1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5633787684288306873
+    second: TestTilemapCloud_0
+  - first:
+      213: 9070579348400547163
+    second: TestTilemapCloud_1
+  - first:
+      213: -9165724623449561018
+    second: TestTilemapCloud_2
+  - first:
+      213: 8048715520046734194
+    second: TestTilemapCloud_3
+  - first:
+      213: -653589439116254452
+    second: TestTilemapCloud_4
+  - first:
+      213: 4938208968214814231
+    second: TestTilemapCloud_5
+  - first:
+      213: 4202711352924103778
+    second: TestTilemapCloud_6
+  - first:
+      213: -7722657701845254440
+    second: TestTilemapCloud_7
+  - first:
+      213: -4704031095289793664
+    second: TestTilemapCloud_8
+  - first:
+      213: 5605454353231707588
+    second: TestTilemapCloud_9
+  - first:
+      213: 6617159149388061082
+    second: TestTilemapCloud_10
+  - first:
+      213: -763606552969815410
+    second: TestTilemapCloud_11
+  - first:
+      213: 2264314753728346402
+    second: TestTilemapCloud_12
+  - first:
+      213: 1575810863980399202
+    second: TestTilemapCloud_13
+  - first:
+      213: 2117807541984388273
+    second: TestTilemapCloud_14
+  - first:
+      213: -6052056520479968281
+    second: TestTilemapCloud_15
+  - first:
+      213: 7089250941413683583
+    second: TestTilemapCloud_16
+  - first:
+      213: -3945238525814405501
+    second: TestTilemapCloud_17
+  - first:
+      213: 1787488812236038817
+    second: TestTilemapCloud_18
+  - first:
+      213: 4418160043129943478
+    second: TestTilemapCloud_19
+  - first:
+      213: 3402284045425740761
+    second: TestTilemapCloud_20
+  - first:
+      213: -8474971296625076169
+    second: TestTilemapCloud_21
+  - first:
+      213: 109952800993822854
+    second: TestTilemapCloud_22
+  - first:
+      213: -4897984993453426532
+    second: TestTilemapCloud_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 330
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TestTilemapCloud_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 986.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be99fdbc0c3f2e40800000000000000
+      internalID: 5633787684288306873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapCloud_1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 986.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55a8600cdb21ed70800000000000000
+      internalID: 9070579348400547163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapCloud_2
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 986.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648ec3e540eccc080800000000000000
+      internalID: -9165724623449561018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapCloud_3
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 986.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b1f8e1f18c2bf60800000000000000
+      internalID: 8048715520046734194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapCloud_4
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 986.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0367843edbfde6f0800000000000000
+      internalID: -653589439116254452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapCloud_5
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 986.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e971194ea088440800000000000000
+      internalID: 4938208968214814231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapCloud_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264ea8465b7035a30800000000000000
+      internalID: 4202711352924103778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapCloud_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 658.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de349f8cbb93d490800000000000000
+      internalID: -7722657701845254440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapCloud_8
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 658.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0833cd054ace7beb0800000000000000
+      internalID: -4704031095289793664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapCloud_9
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 658.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdfa0909039acd40800000000000000
+      internalID: 5605454353231707588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapCloud_10
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 658.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a995089ef2fd4db50800000000000000
+      internalID: 6617159149388061082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapCloud_11
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 658.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ad216c2ef1765f0800000000000000
+      internalID: -763606552969815410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapCloud_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22977ab85467c6f10800000000000000
+      internalID: 2264314753728346402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapCloud_13
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 330.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ac0ccb1a76ed510800000000000000
+      internalID: 1575810863980399202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapCloud_14
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 330.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b46f922db6f36d10800000000000000
+      internalID: 2117807541984388273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapCloud_15
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 330.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e37438e8a6c20ca0800000000000000
+      internalID: -6052056520479968281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapCloud_16
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 330.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71f096bb24126260800000000000000
+      internalID: 7089250941413683583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapCloud_17
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 330.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38685aaa672bf39c0800000000000000
+      internalID: -3945238525814405501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapCloud_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2605daa9f6ec810800000000000000
+      internalID: 1787488812236038817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapCloud_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5b59b9625705d30800000000000000
+      internalID: 4418160043129943478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapCloud_20
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 2.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db84903057573f20800000000000000
+      internalID: 3402284045425740761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapCloud_21
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 2.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738d70f028ad26a80800000000000000
+      internalID: -8474971296625076169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapCloud_22
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 2.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688cb4d6d71a68100800000000000000
+      internalID: 109952800993822854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapCloud_23
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 2.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98b30e599cd60cb0800000000000000
+      internalID: -4897984993453426532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

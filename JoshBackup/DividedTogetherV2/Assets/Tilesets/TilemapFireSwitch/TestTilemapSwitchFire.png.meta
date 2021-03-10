@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: 4c58284dc024d4bb081d0f26067f224c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2052616187543256832
+    second: TestTilemapSwitchFire_0
+  - first:
+      213: 3292246035785105243
+    second: TestTilemapSwitchFire_1
+  - first:
+      213: -2117448587185131746
+    second: TestTilemapSwitchFire_2
+  - first:
+      213: 7660859675655517918
+    second: TestTilemapSwitchFire_3
+  - first:
+      213: -2024512076958159628
+    second: TestTilemapSwitchFire_4
+  - first:
+      213: -375585103258656849
+    second: TestTilemapSwitchFire_5
+  - first:
+      213: 7822749500133778082
+    second: TestTilemapSwitchFire_6
+  - first:
+      213: -2855467664901127353
+    second: TestTilemapSwitchFire_7
+  - first:
+      213: -3049294678357052110
+    second: TestTilemapSwitchFire_8
+  - first:
+      213: -1559061476305475536
+    second: TestTilemapSwitchFire_9
+  - first:
+      213: -6967961765786643081
+    second: TestTilemapSwitchFire_10
+  - first:
+      213: -2621099346507189470
+    second: TestTilemapSwitchFire_11
+  - first:
+      213: -1106748076130619857
+    second: TestTilemapSwitchFire_12
+  - first:
+      213: 7567723364408944867
+    second: TestTilemapSwitchFire_13
+  - first:
+      213: -1549967101241234067
+    second: TestTilemapSwitchFire_14
+  - first:
+      213: 6244732336273317114
+    second: TestTilemapSwitchFire_15
+  - first:
+      213: -1912568754442523894
+    second: TestTilemapSwitchFire_16
+  - first:
+      213: 8087440319421124377
+    second: TestTilemapSwitchFire_17
+  - first:
+      213: 9094258389039986697
+    second: TestTilemapSwitchFire_18
+  - first:
+      213: -1785084376490659087
+    second: TestTilemapSwitchFire_19
+  - first:
+      213: 5948873885315925152
+    second: TestTilemapSwitchFire_20
+  - first:
+      213: -676935489176302061
+    second: TestTilemapSwitchFire_21
+  - first:
+      213: 5619016091123280714
+    second: TestTilemapSwitchFire_22
+  - first:
+      213: -4919000077727015814
+    second: TestTilemapSwitchFire_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 328
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TestTilemapSwitchFire_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 986
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0018441e374a383e0800000000000000
+      internalID: -2052616187543256832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapSwitchFire_1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 985.5
+        width: 328.5
+        height: 328.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fb824935860bd20800000000000000
+      internalID: 3292246035785105243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapSwitchFire_2
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 985.5
+        width: 328.5
+        height: 328.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f6daa8abf4d92e0800000000000000
+      internalID: -2117448587185131746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapSwitchFire_3
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 985.5
+        width: 328.5
+        height: 328.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6bf893947d05a60800000000000000
+      internalID: 7660859675655517918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapSwitchFire_4
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 985.5
+        width: 328.5
+        height: 328.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcab690efc77e3e0800000000000000
+      internalID: -2024512076958159628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapSwitchFire_5
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 985.5
+        width: 328.5
+        height: 328.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafd659a657a9caf0800000000000000
+      internalID: -375585103258656849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapSwitchFire_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 657.5
+        width: 328.5
+        height: 328.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2a652493dff8c60800000000000000
+      internalID: 7822749500133778082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapSwitchFire_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 657.5
+        width: 328.5
+        height: 328.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74344f5a9475f58d0800000000000000
+      internalID: -2855467664901127353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapSwitchFire_8
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 657.5
+        width: 328.5
+        height: 328.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235f90955aabea5d0800000000000000
+      internalID: -3049294678357052110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapSwitchFire_9
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 657.5
+        width: 328.5
+        height: 328.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038e0d9f8d91d5ae0800000000000000
+      internalID: -1559061476305475536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapSwitchFire_10
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 657.5
+        width: 328.5
+        height: 328.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77598cd11b3dc4f90800000000000000
+      internalID: -6967961765786643081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapSwitchFire_11
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 657.5
+        width: 328.5
+        height: 328.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2233e62180cff9bd0800000000000000
+      internalID: -2621099346507189470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapSwitchFire_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 329.5
+        width: 328.5
+        height: 328.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e23621d7a04a0f0800000000000000
+      internalID: -1106748076130619857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapSwitchFire_13
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 329.5
+        width: 328.5
+        height: 328.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8e40eed44f50960800000000000000
+      internalID: 7567723364408944867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapSwitchFire_14
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 329.5
+        width: 328.5
+        height: 328.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d69fc22296d7ae0800000000000000
+      internalID: -1549967101241234067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapSwitchFire_15
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 329.5
+        width: 328.5
+        height: 328.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc57fc49feb9a650800000000000000
+      internalID: 6244732336273317114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapSwitchFire_16
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 329.5
+        width: 328.5
+        height: 328.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b21fed9d03575e0800000000000000
+      internalID: -1912568754442523894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapSwitchFire_17
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 329.5
+        width: 328.5
+        height: 328.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f84451f1c5c3070800000000000000
+      internalID: 8087440319421124377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapSwitchFire_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 328.5
+        height: 328.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908385642db453e70800000000000000
+      internalID: 9094258389039986697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapSwitchFire_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1.5
+        width: 328.5
+        height: 328.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2bc25a73b1a37e0800000000000000
+      internalID: -1785084376490659087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapSwitchFire_20
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1.5
+        width: 328.5
+        height: 328.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a48adbb745ae8250800000000000000
+      internalID: 5948873885315925152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapSwitchFire_21
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1.5
+        width: 328.5
+        height: 328.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e8ac752ca0b96f0800000000000000
+      internalID: -676935489176302061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapSwitchFire_22
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1.5
+        width: 328.5
+        height: 328.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b6b923d51cafd40800000000000000
+      internalID: 5619016091123280714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapSwitchFire_23
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1.5
+        width: 328.5
+        height: 328.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c56f4cd733cbbb0800000000000000
+      internalID: -4919000077727015814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

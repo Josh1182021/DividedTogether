@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: c641fdcdad3de45698f6b26b715446f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1903963858072470237
+    second: TestTilemapFire_0
+  - first:
+      213: 2556154658253294513
+    second: TestTilemapFire_1
+  - first:
+      213: -5081642256322718092
+    second: TestTilemapFire_2
+  - first:
+      213: 4352689902841576763
+    second: TestTilemapFire_3
+  - first:
+      213: 989382519709302012
+    second: TestTilemapFire_4
+  - first:
+      213: 8247679845981268593
+    second: TestTilemapFire_5
+  - first:
+      213: -8567930812679513488
+    second: TestTilemapFire_6
+  - first:
+      213: 3415676544472824225
+    second: TestTilemapFire_7
+  - first:
+      213: -2911831836444853891
+    second: TestTilemapFire_8
+  - first:
+      213: -7436907081070265283
+    second: TestTilemapFire_9
+  - first:
+      213: -431485545666711596
+    second: TestTilemapFire_10
+  - first:
+      213: 1751862756845090864
+    second: TestTilemapFire_11
+  - first:
+      213: 2542450922368179201
+    second: TestTilemapFire_12
+  - first:
+      213: 2013044500200718899
+    second: TestTilemapFire_13
+  - first:
+      213: 458035034063277795
+    second: TestTilemapFire_14
+  - first:
+      213: 3204315113710516855
+    second: TestTilemapFire_15
+  - first:
+      213: -1306022538186743681
+    second: TestTilemapFire_16
+  - first:
+      213: 6482793926077294410
+    second: TestTilemapFire_17
+  - first:
+      213: -7029553747260080506
+    second: TestTilemapFire_18
+  - first:
+      213: 7435460855817234006
+    second: TestTilemapFire_19
+  - first:
+      213: 5177685674207812836
+    second: TestTilemapFire_20
+  - first:
+      213: 8726681438825878950
+    second: TestTilemapFire_21
+  - first:
+      213: -345186668307171008
+    second: TestTilemapFire_22
+  - first:
+      213: 1701205275313186132
+    second: TestTilemapFire_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 328
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TestTilemapFire_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 984.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd287919a0d3c6a10800000000000000
+      internalID: 1903963858072470237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapFire_1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 984.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbc52c5e19497320800000000000000
+      internalID: 2556154658253294513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapFire_2
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 984.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4761544aa416a79b0800000000000000
+      internalID: -5081642256322718092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapFire_3
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 984.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d3d44b76cd76c30800000000000000
+      internalID: 4352689902841576763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapFire_4
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 984.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcf042e82efabd00800000000000000
+      internalID: 989382519709302012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapFire_5
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 984.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17aacd03f15a57270800000000000000
+      internalID: 8247679845981268593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapFire_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 656.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a1d1a1258981980800000000000000
+      internalID: -8567930812679513488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapFire_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 656.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9bfec58bbe66f20800000000000000
+      internalID: 3415676544472824225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapFire_8
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 656.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79f70f4f581797d0800000000000000
+      internalID: -2911831836444853891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapFire_9
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 656.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c3835896ccac890800000000000000
+      internalID: -7436907081070265283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapFire_10
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 656.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfe1dcae2e030af0800000000000000
+      internalID: -431485545666711596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapFire_11
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 656.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038fcf445eddf4810800000000000000
+      internalID: 1751862756845090864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapFire_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c9e96b4a9984320800000000000000
+      internalID: 2542450922368179201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapFire_13
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 328.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332848fae45cfeb10800000000000000
+      internalID: 2013044500200718899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapFire_14
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 328.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee860ccf644b5600800000000000000
+      internalID: 458035034063277795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapFire_15
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 328.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a71256e93087c20800000000000000
+      internalID: 3204315113710516855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapFire_16
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 328.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70a9becb6310ede0800000000000000
+      internalID: -1306022538186743681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapFire_17
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 328.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47a5eb7ab287f950800000000000000
+      internalID: 6482793926077294410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapFire_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68efb0d6c12027e90800000000000000
+      internalID: -7029553747260080506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapFire_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656ee4ce040103760800000000000000
+      internalID: 7435460855817234006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapFire_20
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec19c920b5dad740800000000000000
+      internalID: 5177685674207812836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapFire_21
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 0.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5163d58866b1970800000000000000
+      internalID: 8726681438825878950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapFire_22
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 0.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049b956dd86a53bf0800000000000000
+      internalID: -345186668307171008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestTilemapFire_23
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 0.75
+        width: 328.5
+        height: 328.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455201d3f25eb9710800000000000000
+      internalID: 1701205275313186132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
